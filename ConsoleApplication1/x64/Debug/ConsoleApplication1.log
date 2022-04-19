@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(19,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(20,140): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(23,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(24,138): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(27,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(28,140): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Graph.cpp
+E:\גיבויים\repos\ConsoleApplication1\ConsoleApplication1\Graph.cpp(49,6): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> E:\גיבויים\repos\ConsoleApplication1\x64\Debug\Random Graphs.exe
